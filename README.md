@@ -1,2 +1,2 @@
 # bolt
-bolt çalışmalarım için web tarayıcı üzerinden yapılan çalışmalrım burda olacak harika olacak
+bolt çalışmalarım için web tarayıcı üzerinden yapılan çalışmalrımı burda geliştirmeye çalışıyorum
